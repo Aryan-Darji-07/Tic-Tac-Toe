@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 <h1>Responsive Tic Tac Toe Game</h1>
 <h3>Welcome to my interactive and responsive Tic Tac Toe game! This project showcases my creativity and expertise in HTML, CSS, and JavaScript, offering a modern twist to the classic game we all love.</h2>
-
+<br>
 <h2>Features:</h2>
 <h3>Responsive Design: The game is designed to adapt seamlessly to various screen sizes and devices, ensuring an optimal experience whether you're playing on a desktop, tablet, or smartphone.</h3>
 
@@ -13,12 +13,14 @@
 
 <h3>JavaScript Logic: Dive into the JavaScript code to see how I've implemented the game logic, including win detection, player turns, and more. It's a testament to my proficiency in JavaScript and my ability to create dynamic and interactive web applications.</h3>
 
+<br>
 <h2>How to Play:</h2>
 <h3>Clone or download the repository to your local machine.</h3>
 <h3>Open the index.html file in your preferred web browser.</h3>
 <h3>Start a new game by clicking or tapping on the grid squares to make your moves.</h3>
 <h3>Enjoy the challenge of Tic Tac Toe and strive to outwit your opponent!</h3>
 
+<br>
 <h2>Contributions and Feedback:</h2>
 <h3>I welcome contributions and feedback from the community to further enhance this project. Whether you have suggestions for new features, improvements to the codebase, or bug fixes, your input is valuable in making this Tic Tac Toe game even better.</h3>
 
