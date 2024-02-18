@@ -15,10 +15,10 @@
 
 <br>
 <h2>How to Play:</h2>
-<h3>Clone or download the repository to your local machine.</h3>
-<h3>Open the index.html file in your preferred web browser.</h3>
-<h3>Start a new game by clicking or tapping on the grid squares to make your moves.</h3>
-<h3>Enjoy the challenge of Tic Tac Toe and strive to outwit your opponent!</h3>
+<h3>1) Clone or download the repository to your local machine.</h3>
+<h3>2) Open the index.html file in your preferred web browser.</h3>
+<h3>3) Start a new game by clicking or tapping on the grid squares to make your moves.</h3>
+<h3>4) Enjoy the challenge of Tic Tac Toe and strive to outwit your opponent!</h3>
 
 <br>
 <h2>Contributions and Feedback:</h2>
