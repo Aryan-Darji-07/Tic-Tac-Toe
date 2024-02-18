@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 <h1>Responsive Tic Tac Toe Game</h1>
 <h3>Welcome to my interactive and responsive Tic Tac Toe game! This project showcases my creativity and expertise in HTML, CSS, and JavaScript, offering a modern twist to the classic game we all love.</h2>
-<br>
+<br> 
 <h2>Features:</h2>
 <h3>Responsive Design: The game is designed to adapt seamlessly to various screen sizes and devices, ensuring an optimal experience whether you're playing on a desktop, tablet, or smartphone.</h3>
 
