@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("splashScreen").style.display = "none";
     document.getElementById("mainContent").style.display = "block";
   }, 4000); // 4000 milliseconds
-
+  
   document.getElementById('playButton').addEventListener('click', function(event) {
     event.preventDefault(); // Prevent the default link behavior
 
