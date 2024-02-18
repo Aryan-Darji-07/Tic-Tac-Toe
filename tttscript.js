@@ -109,7 +109,7 @@ const checkWinner = () => {
     }
   }
   if (cellsFilled === 9) {
-    textTurn.innerText = "Tie The Game";
+    textTurn.innerText = "Tie Game";
     newgame.innerText = "New Game";
   }
 };
